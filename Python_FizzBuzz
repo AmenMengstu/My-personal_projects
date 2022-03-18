@@ -10,9 +10,9 @@ for fizzbuzz in range(51):
         continue
     print(fizzbuzz)
     
-    
-    # sample output
-    fizzbuzz
+# sample output
+   
+fizzbuzz
 1
 2
 fizz
